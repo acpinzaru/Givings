@@ -1,0 +1,50 @@
+   69  git help
+   70  git version
+   71  git
+   74  git status
+   75  git pwd
+   76  sudo apt-get install git
+   77  apt-get install git
+   78  yum install git
+   79  git version
+   80  git config --list
+   81  git config user.name
+   82  git --global user.name "Andrei Pinzaru"
+   83  git config --global user.name "Andrei Pinzaru"
+   84  git config --global user.email "andypinzaru@gmail.com"
+   85  git config --list
+   86  man git
+   87  git man
+   88  git help
+   90  mkdir ./giting/
+   93  cd giting/
+   94  git init
+   98  cd .git/
+  102  git commit
+  103  git branch
+  104  git status
+  108  git add file.txt 
+  109  git commit
+  111  git commit
+  113  git init
+  114  git add README.md
+  115  git commit -m "first commit"
+  116  git remote add origin https://github.com/acpinzaru/Givings.git
+  117  git push -u origin master
+  118  git commit
+  120  git help
+  121  git help | grep stage
+  122  git push
+  124  history | grep git > gitting.info
+  125  less gitting.info 
+  126  history | grep '^git' > gitting.info
+  127  less gitting.info 
+  128  history | grep -i '^git' > gitting.info
+  129  less gitting.info 
+  130  history | grep "^git" > gitting.info
+  131  less gitting.info 
+  132  history | grep "^git"
+  133  history | grep -i '^git'
+  134  history | grep -v '^git'
+  135  history | grep '^git'
+  136  history | grep git > gitting.info
